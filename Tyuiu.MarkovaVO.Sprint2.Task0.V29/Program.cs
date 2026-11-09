@@ -41,7 +41,7 @@ namespace Tyuiu.MarkovaVO.Sprint2.Task0.V29
                 Console.WriteLine(res[i]);
             }
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
