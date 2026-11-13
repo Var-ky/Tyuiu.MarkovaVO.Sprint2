@@ -32,7 +32,6 @@ namespace Tyuiu.MarkovaVO.Sprint2.Task3.V21
             Console.WriteLine("*******************************************************************************");
 
             double y = ds.Calculate(x);
-
             Console.WriteLine("Значение Y = " + y);
 
             Console.ReadKey();
