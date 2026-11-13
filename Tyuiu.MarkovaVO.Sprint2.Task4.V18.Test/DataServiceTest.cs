@@ -15,7 +15,6 @@ namespace Tyuiu.MarkovaVO.Sprint2.Task4.V18.Test
             double wait = 6;
             Assert.AreEqual(wait, res);
         }
-
         [TestMethod]
         public void TestMethod2()
         {
