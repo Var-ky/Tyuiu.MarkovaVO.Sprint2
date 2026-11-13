@@ -33,7 +33,7 @@ namespace Tyuiu.MarkovaVO.Sprint2.Task6.V6
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                  *");
             Console.WriteLine("*******************************************************************************");
 
-            string res = ds.FindCardNameAndValue(k,m);
+            string res = ds.FindCardNameAndValue(m,k);
             Console.WriteLine("Полное название карты: " + res);
 
             Console.ReadKey();

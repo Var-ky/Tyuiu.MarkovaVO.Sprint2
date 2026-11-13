@@ -4,7 +4,7 @@ namespace Tyuiu.MarkovaVO.Sprint2.Task6.V6.Lib
 {
     public class DataService : ISprint2Task6V6
     {
-        public string FindCardNameAndValue(int k, int m)
+        public string FindCardNameAndValue(int m, int k)
         {
             string kart = k switch
             {
