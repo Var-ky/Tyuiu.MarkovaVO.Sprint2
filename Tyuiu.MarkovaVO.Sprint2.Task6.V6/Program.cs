@@ -24,10 +24,10 @@ namespace Tyuiu.MarkovaVO.Sprint2.Task6.V6
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                            *");
             Console.WriteLine("*******************************************************************************");
 
-            Console.WriteLine("Введите номер достоинства карты:");
-            int k = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите номер масти карты:");
             int m = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Введите номер достоинства карты:");
+            int k = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("*******************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                  *");
