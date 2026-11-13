@@ -29,7 +29,6 @@ namespace Tyuiu.MarkovaVO.Sprint2.Task4.V18
             Console.WriteLine("Введите значение Y:");
             double y = Convert.ToInt32(Console.ReadLine());
 
-
             Console.WriteLine("*******************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                  *");
             Console.WriteLine("*******************************************************************************");
